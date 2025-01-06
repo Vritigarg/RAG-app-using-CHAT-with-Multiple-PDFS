@@ -24,6 +24,12 @@ Then the user can chat and ask questions about the pdf to the interface and it w
 ![chat3](https://github.com/user-attachments/assets/81766e5d-bdf9-4067-be5b-a2547e4316b2)
 
 
+Before Running the application Do Download all the libraries:- Langchain,pypdf,Huggingfacehub,dotenv,IntructEmbedding
+Note:-I am Using Open Source Embeddings so the time take to create the vector store is more than OpenAI embeddings
+
+To Run the application:- streamlit run main.py
+
+
 As mentioned Earlier, the application provides language translation, ATQ to the user choice they can choose the Translation language
 
 ![chat4](https://github.com/user-attachments/assets/cdb8f98b-e8bc-4b9e-b34e-0a6ab900f54b)
